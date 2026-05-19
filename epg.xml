@@ -1197,12 +1197,40 @@
   <channel id="ESPN+ 399">
     <display-name>ESPN+ 399</display-name>
   </channel>
-  <programme start="20260518140000 -0400" stop="20260518160000 -0400" channel="ESPN+ 1">
+  <programme start="20260519130000 -0400" stop="20260519150000 -0400" channel="ESPN+ 1">
+    <title>UT Martin Skyhawks at Lindenwood Lions</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260519140000 -0400" stop="20260519160000 -0400" channel="ESPN+ 2">
     <title>Holy Cross Crusaders at Bucknell Bison</title>
     <category>Baseball</category>
   </programme>
-  <programme start="20260518143000 -0400" stop="20260518163000 -0400" channel="ESPN+ 2">
-    <title>Huesca at Leganés</title>
-    <category>Soccer</category>
+  <programme start="20260519140000 -0400" stop="20260519160000 -0400" channel="ESPN+ 3">
+    <title>Austin Peay Governors at Jacksonville Dolphins</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260519160000 -0400" stop="20260519180000 -0400" channel="ESPN+ 4">
+    <title>Marshall Thundering Herd at Louisiana Ragin' Cajuns</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260519170000 -0400" stop="20260519190000 -0400" channel="ESPN+ 5">
+    <title>Southern Indiana Screaming Eagles at Morehead State Eagles</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260519180000 -0400" stop="20260519200000 -0400" channel="ESPN+ 6">
+    <title>Stetson Hatters at Central Arkansas Bears</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260519193000 -0400" stop="20260519213000 -0400" channel="ESPN+ 7">
+    <title>Georgia State Panthers at Old Dominion Monarchs</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260519193000 -0400" stop="20260519213000 -0400" channel="ESPN+ 8">
+    <title>Texas Tech Red Raiders at BYU Cougars</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260519230000 -0400" stop="20260520010000 -0400" channel="ESPN+ 9">
+    <title>Kansas State Wildcats at Utah Utes</title>
+    <category>Baseball</category>
   </programme>
 </tv>
