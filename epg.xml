@@ -1197,12 +1197,4 @@
   <channel id="ESPN+ 399">
     <display-name>ESPN+ 399</display-name>
   </channel>
-  <programme start="20260521000000 -0400" stop="20260521020000 -0400" channel="ESPN+ 1">
-    <title>THE CJ CUP Byron Nelson</title>
-    <category>Golf</category>
-  </programme>
-  <programme start="20260525143000 -0400" stop="20260525163000 -0400" channel="ESPN+ 2">
-    <title>Bundesliga: Paderborn vs Wolfsburg</title>
-    <category>Sports</category>
-  </programme>
 </tv>
