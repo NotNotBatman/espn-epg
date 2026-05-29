@@ -1201,4 +1201,76 @@
     <title>Charles Schwab Challenge</title>
     <category>Golf</category>
   </programme>
+  <programme start="20260529120000 -0400" stop="20260529140000 -0400" channel="ESPN+ 2">
+    <title>Liberty Flames at Boston College Eagles</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529130000 -0400" stop="20260529150000 -0400" channel="ESPN+ 3">
+    <title>Milwaukee Panthers at Auburn Tigers</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529130000 -0400" stop="20260529150000 -0400" channel="ESPN+ 4">
+    <title>Rider Broncs at Florida Gators</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529130000 -0400" stop="20260529150000 -0400" channel="ESPN+ 5">
+    <title>Little Rock Trojans at Southern Miss Golden Eagles</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529130000 -0400" stop="20260529150000 -0400" channel="ESPN+ 6">
+    <title>Northeastern Huskies at Kansas Jayhawks</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529140000 -0400" stop="20260529160000 -0400" channel="ESPN+ 7">
+    <title>Lipscomb Bisons at Mississippi State Bulldogs</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529140000 -0400" stop="20260529160000 -0400" channel="ESPN+ 8">
+    <title>South Carolina Upstate Spartans at Oklahoma State Cowboys</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529160000 -0400" stop="20260529180000 -0400" channel="ESPN+ 9">
+    <title>South Dakota State Jackrabbits at Nebraska Cornhuskers</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529170000 -0400" stop="20260529190000 -0400" channel="ESPN+ 10">
+    <title>Long Island University Sharks at Georgia Bulldogs</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529170000 -0400" stop="20260529190000 -0400" channel="ESPN+ 11">
+    <title>VCU Rams at North Carolina Tar Heels</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529170000 -0400" stop="20260529190000 -0400" channel="ESPN+ 12">
+    <title>Binghamton Bearcats at West Virginia Mountaineers</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529170000 -0400" stop="20260529190000 -0400" channel="ESPN+ 13">
+    <title>The Citadel Bulldogs at Oklahoma Sooners</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529180000 -0400" stop="20260529200000 -0400" channel="ESPN+ 14">
+    <title>Tarleton State Texans at UC Santa Barbara Gauchos</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529190000 -0400" stop="20260529210000 -0400" channel="ESPN+ 15">
+    <title>Louisiana Ragin' Cajuns at Cincinnati Bearcats</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529190000 -0400" stop="20260529210000 -0400" channel="ESPN+ 16">
+    <title>Jacksonville State Gamecocks at Virginia Cavaliers</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529200000 -0400" stop="20260529220000 -0400" channel="ESPN+ 17">
+    <title>Yale Bulldogs at Oregon Ducks</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529200000 -0400" stop="20260529220000 -0400" channel="ESPN+ 18">
+    <title>Northern Illinois Huskies at Coastal Carolina Chanticleers</title>
+    <category>Baseball</category>
+  </programme>
+  <programme start="20260529200000 -0400" stop="20260529220000 -0400" channel="ESPN+ 19">
+    <title>Cal Poly Mustangs at Virginia Tech Hokies</title>
+    <category>Baseball</category>
+  </programme>
 </tv>
