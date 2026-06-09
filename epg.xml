@@ -1197,16 +1197,4 @@
   <channel id="ESPN+ 399">
     <display-name>ESPN+ 399</display-name>
   </channel>
-  <programme start="20260604000000 -0400" stop="20260604020000 -0400" channel="ESPN+ 1">
-    <title>the Memorial Tournament pres. by Workday</title>
-    <category>Golf</category>
-  </programme>
-  <programme start="20260608140000 -0400" stop="20260608160000 -0400" channel="ESPN+ 2">
-    <title>St. John's Red Storm at Alabama Crimson Tide</title>
-    <category>Baseball</category>
-  </programme>
-  <programme start="20260608170000 -0400" stop="20260608190000 -0400" channel="ESPN+ 3">
-    <title>Oklahoma Sooners at Kansas Jayhawks</title>
-    <category>Baseball</category>
-  </programme>
 </tv>
