@@ -1197,8 +1197,4 @@
   <channel id="ESPN+ 399">
     <display-name>ESPN+ 399</display-name>
   </channel>
-  <programme start="20260611000000 -0400" stop="20260611020000 -0400" channel="ESPN+ 1">
-    <title>RBC Canadian Open</title>
-    <category>Golf</category>
-  </programme>
 </tv>
