@@ -1197,12 +1197,4 @@
   <channel id="ESPN+ 399">
     <display-name>ESPN+ 399</display-name>
   </channel>
-  <programme start="20260817130000 -0400" stop="20260817150000 -0400" channel="ESPN+ 1">
-    <title>CD Sabadell at Sporting Gijón</title>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260817153000 -0400" stop="20260817173000 -0400" channel="ESPN+ 2">
-    <title>Eldense at Almería</title>
-    <category>Soccer</category>
-  </programme>
 </tv>
