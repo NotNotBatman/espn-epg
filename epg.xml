@@ -1197,4 +1197,12 @@
   <channel id="ESPN+ 399">
     <display-name>ESPN+ 399</display-name>
   </channel>
+  <programme start="20260821144500 -0400" stop="20260821164500 -0400" channel="ESPN+ 1">
+    <title>Strasbourg at Marseille</title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260821150000 -0400" stop="20260821170000 -0400" channel="ESPN+ 2">
+    <title>Girona at Córdoba</title>
+    <category>Soccer</category>
+  </programme>
 </tv>
