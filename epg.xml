@@ -1197,12 +1197,60 @@
   <channel id="ESPN+ 399">
     <display-name>ESPN+ 399</display-name>
   </channel>
-  <programme start="20260821144500 -0400" stop="20260821164500 -0400" channel="ESPN+ 1">
-    <title>Strasbourg at Marseille</title>
+  <programme start="20260822073000 -0400" stop="20260822093000 -0400" channel="ESPN+ 1">
+    <title>Norwich City at Millwall</title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260821150000 -0400" stop="20260821170000 -0400" channel="ESPN+ 2">
-    <title>Girona at Córdoba</title>
+  <programme start="20260822100000 -0400" stop="20260822120000 -0400" channel="ESPN+ 2">
+    <title>Cardiff City at Derby County</title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260822100000 -0400" stop="20260822120000 -0400" channel="ESPN+ 3">
+    <title>Bolton Wanderers at Queens Park Rangers</title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260822100000 -0400" stop="20260822120000 -0400" channel="ESPN+ 4">
+    <title>Stoke City at Southampton</title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260822100000 -0400" stop="20260822120000 -0400" channel="ESPN+ 5">
+    <title>Sheffield United at Swansea City</title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260822110000 -0400" stop="20260822130000 -0400" channel="ESPN+ 6">
+    <title>Leganés at Real Oviedo</title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260822111500 -0400" stop="20260822131500 -0400" channel="ESPN+ 7">
+    <title>AJ Auxerre at Lens</title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260822130000 -0400" stop="20260822150000 -0400" channel="ESPN+ 8">
+    <title>Real Sociedad II at Albacete</title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260822130000 -0400" stop="20260822150000 -0400" channel="ESPN+ 9">
+    <title>Las Palmas at Ceuta</title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260822144500 -0400" stop="20260822164500 -0400" channel="ESPN+ 10">
+    <title>Brest at Le Mans</title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260822144500 -0400" stop="20260822164500 -0400" channel="ESPN+ 11">
+    <title>Lorient at Nice</title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260822144500 -0400" stop="20260822164500 -0400" channel="ESPN+ 12">
+    <title>Lyon at Toulouse</title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260822144500 -0400" stop="20260822164500 -0400" channel="ESPN+ 13">
+    <title>Paris FC at Troyes</title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20260822153000 -0400" stop="20260822173000 -0400" channel="ESPN+ 14">
+    <title>Cádiz at Eldense</title>
     <category>Soccer</category>
   </programme>
 </tv>
