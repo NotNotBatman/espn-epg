@@ -1197,32 +1197,12 @@
   <channel id="ESPN+ 399">
     <display-name>ESPN+ 399</display-name>
   </channel>
-  <programme start="20260823090000 -0400" stop="20260823110000 -0400" channel="ESPN+ 1">
-    <title>Lille at Angers</title>
+  <programme start="20260824130000 -0400" stop="20260824150000 -0400" channel="ESPN+ 1">
+    <title>FC Andorra at RC Celta Fortuna</title>
     <category>Soccer</category>
   </programme>
-  <programme start="20260823110000 -0400" stop="20260823130000 -0400" channel="ESPN+ 2">
-    <title>Real Valladolid at Eibar</title>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260823111500 -0400" stop="20260823131500 -0400" channel="ESPN+ 3">
-    <title>AS Monaco at Le Havre AC</title>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260823130000 -0400" stop="20260823150000 -0400" channel="ESPN+ 4">
-    <title>CD Sabadell at Castellón</title>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260823130000 -0400" stop="20260823150000 -0400" channel="ESPN+ 5">
-    <title>Burgos at Sporting Gijón</title>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260823144500 -0400" stop="20260823164500 -0400" channel="ESPN+ 6">
-    <title>Paris Saint-Germain at Stade Rennais</title>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260823153000 -0400" stop="20260823173000 -0400" channel="ESPN+ 7">
-    <title>Almería at Tenerife</title>
+  <programme start="20260824153000 -0400" stop="20260824173000 -0400" channel="ESPN+ 2">
+    <title>Mallorca at Granada</title>
     <category>Soccer</category>
   </programme>
 </tv>
