@@ -1197,12 +1197,4 @@
   <channel id="ESPN+ 399">
     <display-name>ESPN+ 399</display-name>
   </channel>
-  <programme start="20260824130000 -0400" stop="20260824150000 -0400" channel="ESPN+ 1">
-    <title>FC Andorra at RC Celta Fortuna</title>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20260824153000 -0400" stop="20260824173000 -0400" channel="ESPN+ 2">
-    <title>Mallorca at Granada</title>
-    <category>Soccer</category>
-  </programme>
 </tv>
