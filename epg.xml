@@ -1197,84 +1197,48 @@
   <channel id="ESPN+ 399">
     <display-name>ESPN+ 399</display-name>
   </channel>
-  <programme start="20260922120000 -0400" stop="20260922140000 -0400" channel="ESPN+ 1">
-    <title>Texas A&amp;M-Corpus Christi Islanders at Southern Jaguars</title>
+  <programme start="20260923120000 -0400" stop="20260923140000 -0400" channel="ESPN+ 1">
+    <title>Texas A&amp;M-Corpus Christi Islanders at Nicholls Colonels</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260922180000 -0400" stop="20260922200000 -0400" channel="ESPN+ 2">
-    <title>Bryant Bulldogs at Central Connecticut Blue Devils</title>
+  <programme start="20260923130000 -0400" stop="20260923150000 -0400" channel="ESPN+ 2">
+    <title>Seton Hall Pirates at St. John's Red Storm</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260922180000 -0400" stop="20260922200000 -0400" channel="ESPN+ 3">
-    <title>Tennessee Tech Golden Eagles at Lipscomb Bisons</title>
+  <programme start="20260923180000 -0400" stop="20260923200000 -0400" channel="ESPN+ 3">
+    <title>New Hampshire Wildcats at Dartmouth Big Green</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260922180000 -0400" stop="20260922200000 -0400" channel="ESPN+ 4">
-    <title>Queens University Royals at UNC Asheville Bulldogs</title>
+  <programme start="20260923180000 -0400" stop="20260923200000 -0400" channel="ESPN+ 4">
+    <title>Charlotte 49ers at East Carolina Pirates</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260922180000 -0400" stop="20260922200000 -0400" channel="ESPN+ 5">
-    <title>Wofford Terriers at Gardner-Webb Runnin' Bulldogs</title>
+  <programme start="20260923180000 -0400" stop="20260923200000 -0400" channel="ESPN+ 5">
+    <title>Temple Owls at Fairleigh Dickinson Knights</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260922180000 -0400" stop="20260922200000 -0400" channel="ESPN+ 6">
-    <title>Youngstown State Penguins at Robert Morris Colonials</title>
+  <programme start="20260923180000 -0400" stop="20260923200000 -0400" channel="ESPN+ 6">
+    <title>Akron Zips at Kent State Golden Flashes</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260922180000 -0400" stop="20260922200000 -0400" channel="ESPN+ 7">
-    <title>South Carolina State Bulldogs at Fort Valley State Wildcats</title>
+  <programme start="20260923180000 -0400" stop="20260923200000 -0400" channel="ESPN+ 7">
+    <title>New Haven Chargers at Marist Red Foxes</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260922183000 -0400" stop="20260922203000 -0400" channel="ESPN+ 8">
-    <title>Eastern Michigan Eagles at Central Michigan Chippewas</title>
+  <programme start="20260923180000 -0400" stop="20260923200000 -0400" channel="ESPN+ 8">
+    <title>Long Island University Sharks at Saint Peter's Peacocks</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260922190000 -0400" stop="20260922210000 -0400" channel="ESPN+ 9">
-    <title>Philadelphia Flyers at Boston Bruins</title>
+  <programme start="20260923190000 -0400" stop="20260923210000 -0400" channel="ESPN+ 9">
+    <title>Ottawa Senators at Toronto Maple Leafs</title>
     <category>Hockey</category>
   </programme>
-  <programme start="20260922190000 -0400" stop="20260922210000 -0400" channel="ESPN+ 10">
-    <title>Detroit Red Wings at Pittsburgh Penguins</title>
-    <category>Hockey</category>
-  </programme>
-  <programme start="20260922190000 -0400" stop="20260922210000 -0400" channel="ESPN+ 11">
-    <title>Columbus Blue Jackets at Buffalo Sabres</title>
-    <category>Hockey</category>
-  </programme>
-  <programme start="20260922190000 -0400" stop="20260922210000 -0400" channel="ESPN+ 12">
-    <title>New York Islanders at New York Rangers</title>
-    <category>Hockey</category>
-  </programme>
-  <programme start="20260922190000 -0400" stop="20260922210000 -0400" channel="ESPN+ 13">
-    <title>Northern Iowa Panthers at Drake Bulldogs</title>
+  <programme start="20260923190000 -0400" stop="20260923210000 -0400" channel="ESPN+ 10">
+    <title>UT Rio Grande Valley Vaqueros at McNeese Cowboys</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260922190000 -0400" stop="20260922210000 -0400" channel="ESPN+ 14">
-    <title>UT Arlington Mavericks at Tarleton State Texans</title>
-    <category>Volleyball</category>
-  </programme>
-  <programme start="20260922190000 -0400" stop="20260922210000 -0400" channel="ESPN+ 15">
-    <title>Tennessee State Tigers at Alabama A&amp;M Bulldogs</title>
-    <category>Volleyball</category>
-  </programme>
-  <programme start="20260922200000 -0400" stop="20260922220000 -0400" channel="ESPN+ 16">
-    <title>Edmonton Oilers at Winnipeg Jets</title>
-    <category>Hockey</category>
-  </programme>
-  <programme start="20260922200000 -0400" stop="20260922220000 -0400" channel="ESPN+ 17">
-    <title>Tampa Bay Lightning at Nashville Predators</title>
-    <category>Hockey</category>
-  </programme>
-  <programme start="20260922210000 -0400" stop="20260922230000 -0400" channel="ESPN+ 18">
-    <title>Vancouver Canucks at Calgary Flames</title>
-    <category>Hockey</category>
-  </programme>
-  <programme start="20260922210000 -0400" stop="20260922230000 -0400" channel="ESPN+ 19">
-    <title>Montana State Bobcats at Montana Grizzlies</title>
-    <category>Volleyball</category>
-  </programme>
-  <programme start="20260922220000 -0400" stop="20260923000000 -0400" channel="ESPN+ 20">
-    <title>Utah Mammoth at Los Angeles Kings</title>
+  <programme start="20260923220000 -0400" stop="20260924000000 -0400" channel="ESPN+ 11">
+    <title>Los Angeles Kings at Anaheim Ducks</title>
     <category>Hockey</category>
   </programme>
 </tv>
