@@ -1197,52 +1197,40 @@
   <channel id="ESPN+ 399">
     <display-name>ESPN+ 399</display-name>
   </channel>
-  <programme start="20260929170000 -0400" stop="20260929190000 -0400" channel="ESPN+ 1">
-    <title>Saint Louis Billikens at Loyola Chicago Ramblers</title>
+  <programme start="20260930124500 -0400" stop="20260930144500 -0400" channel="ESPN+ 1">
+    <title>UEFA Women's Champions League: Paris FC vs Arsenal</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20260930124500 -0400" stop="20260930144500 -0400" channel="ESPN+ 2">
+    <title>UEFA Women's Champions League: Häcken vs Juventus</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20260930150000 -0400" stop="20260930170000 -0400" channel="ESPN+ 3">
+    <title>UEFA Women's Champions League: SL Benfica vs Bayern</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20260930180000 -0400" stop="20260930200000 -0400" channel="ESPN+ 4">
+    <title>Stonehill Skyhawks at New Hampshire Wildcats</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260929180000 -0400" stop="20260929200000 -0400" channel="ESPN+ 2">
-    <title>Canisius Golden Griffins at Niagara Purple Eagles</title>
+  <programme start="20260930190000 -0400" stop="20260930210000 -0400" channel="ESPN+ 5">
+    <title>Grambling Tigers at Arkansas-Pine Bluff Golden Lions</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260929180000 -0400" stop="20260929200000 -0400" channel="ESPN+ 3">
-    <title>Merrimack Warriors at Quinnipiac Bobcats</title>
+  <programme start="20260930190000 -0400" stop="20260930210000 -0400" channel="ESPN+ 6">
+    <title>UIC Flames at Valparaiso VALPARAISO</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260929180000 -0400" stop="20260929200000 -0400" channel="ESPN+ 4">
-    <title>Rider Broncs at Saint Peter's Peacocks</title>
-    <category>Volleyball</category>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929200000 -0400" channel="ESPN+ 5">
-    <title>Central Michigan Chippewas at Western Michigan Broncos</title>
-    <category>Volleyball</category>
-  </programme>
-  <programme start="20260929180000 -0400" stop="20260929200000 -0400" channel="ESPN+ 6">
-    <title>North Alabama Lions at West Georgia Wolves</title>
-    <category>Volleyball</category>
-  </programme>
-  <programme start="20260929190000 -0400" stop="20260929210000 -0400" channel="ESPN+ 7">
-    <title>Montreal Canadiens at Toronto Maple Leafs</title>
+  <programme start="20260930193000 -0400" stop="20260930213000 -0400" channel="ESPN+ 7">
+    <title>New York Islanders at Toronto Maple Leafs</title>
     <category>Hockey</category>
   </programme>
-  <programme start="20260929190000 -0400" stop="20260929210000 -0400" channel="ESPN+ 8">
-    <title>Green Bay Phoenix at Milwaukee Panthers</title>
+  <programme start="20260930193000 -0400" stop="20260930213000 -0400" channel="ESPN+ 8">
+    <title>UAB Blazers at Memphis Tigers</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20260929190000 -0400" stop="20260929210000 -0400" channel="ESPN+ 9">
-    <title>Fairfield Stags at Sacred Heart Pioneers</title>
+  <programme start="20260930200000 -0400" stop="20260930220000 -0400" channel="ESPN+ 9">
+    <title>Marquette Golden Eagles at DePaul Blue Demons</title>
     <category>Volleyball</category>
-  </programme>
-  <programme start="20260929190000 -0400" stop="20260929210000 -0400" channel="ESPN+ 10">
-    <title>Marist Red Foxes at Siena Saints</title>
-    <category>Volleyball</category>
-  </programme>
-  <programme start="20260929200000 -0400" stop="20260929220000 -0400" channel="ESPN+ 11">
-    <title>Southern Utah Thunderbirds at Utah Tech Trailblazers</title>
-    <category>Volleyball</category>
-  </programme>
-  <programme start="20260929220000 -0400" stop="20260930000000 -0400" channel="ESPN+ 12">
-    <title>Vancouver Canucks at Edmonton Oilers</title>
-    <category>Hockey</category>
   </programme>
 </tv>
