@@ -1197,236 +1197,312 @@
   <channel id="ESPN+ 399">
     <display-name>ESPN+ 399</display-name>
   </channel>
-  <programme start="20261119000000 -0500" stop="20261119020000 -0500" channel="ESPN+ 1">
-    <title>The RSM Classic</title>
-    <category>Golf</category>
-  </programme>
-  <programme start="20261124130000 -0500" stop="20261124150000 -0500" channel="ESPN+ 2">
-    <title>Davidson Wildcats at Notre Dame Fighting Irish</title>
-    <category>Basketball</category>
-  </programme>
-  <programme start="20261124130000 -0500" stop="20261124150000 -0500" channel="ESPN+ 3">
-    <title>Southern Utah at FIU</title>
+  <programme start="20261125110000 -0500" stop="20261125130000 -0500" channel="ESPN+ 1">
+    <title>Mercy at Fordham</title>
     <category>Sports</category>
   </programme>
-  <programme start="20261124144500 -0500" stop="20261124164500 -0500" channel="ESPN+ 4">
-    <title>Preston North End at Cardiff City</title>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20261124144500 -0500" stop="20261124164500 -0500" channel="ESPN+ 5">
-    <title>Lincoln City at Charlton Athletic</title>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20261124144500 -0500" stop="20261124164500 -0500" channel="ESPN+ 6">
-    <title>Swansea City at Middlesbrough</title>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20261124144500 -0500" stop="20261124164500 -0500" channel="ESPN+ 7">
-    <title>Queens Park Rangers at Norwich City</title>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20261124144500 -0500" stop="20261124164500 -0500" channel="ESPN+ 8">
-    <title>Southampton at Sheffield United</title>
-    <category>Soccer</category>
-  </programme>
-  <programme start="20261124150000 -0500" stop="20261124170000 -0500" channel="ESPN+ 9">
-    <title>App State vs. Yale</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124153000 -0500" stop="20261124173000 -0500" channel="ESPN+ 10">
-    <title>Florida Gators at West Virginia Mountaineers</title>
-    <category>Basketball</category>
-  </programme>
-  <programme start="20261124153000 -0500" stop="20261124173000 -0500" channel="ESPN+ 11">
-    <title>Long Beach State vs. Arkansas State</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124160000 -0500" stop="20261124180000 -0500" channel="ESPN+ 12">
-    <title>Oklahoma Sooners at Montana State Bobcats</title>
-    <category>Basketball</category>
-  </programme>
-  <programme start="20261124160000 -0500" stop="20261124180000 -0500" channel="ESPN+ 13">
-    <title>New Mexico Lobos at Hawai'i Rainbow Warriors</title>
+  <programme start="20261125120000 -0500" stop="20261125140000 -0500" channel="ESPN+ 2">
+    <title>Texas Tech Red Raiders at Cincinnati Bearcats</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20261124163000 -0500" stop="20261124183000 -0500" channel="ESPN+ 14">
-    <title>Penn State-Berks at Navy</title>
+  <programme start="20261125120000 -0500" stop="20261125140000 -0500" channel="ESPN+ 3">
+    <title>Penn State-Abington at Saint Joseph's</title>
     <category>Sports</category>
   </programme>
-  <programme start="20261124173000 -0500" stop="20261124193000 -0500" channel="ESPN+ 15">
-    <title>Emerson at Quinnipiac</title>
+  <programme start="20261125130000 -0500" stop="20261125150000 -0500" channel="ESPN+ 4">
+    <title>Eastern Kentucky at Miami (OH)</title>
     <category>Sports</category>
   </programme>
-  <programme start="20261124180000 -0500" stop="20261124200000 -0500" channel="ESPN+ 16">
-    <title>Purdue Boilermakers at Nebraska Cornhuskers</title>
+  <programme start="20261125130000 -0500" stop="20261125150000 -0500" channel="ESPN+ 5">
+    <title>American International at Rhode Island</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125130000 -0500" stop="20261125150000 -0500" channel="ESPN+ 6">
+    <title>Long Beach State vs. Southern Utah</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125133000 -0500" stop="20261125153000 -0500" channel="ESPN+ 7">
+    <title>BYU Cougars at UCF Knights</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20261124180000 -0500" stop="20261124200000 -0500" channel="ESPN+ 17">
-    <title>Idaho State Bengals at Northern Colorado Bears</title>
+  <programme start="20261125140000 -0500" stop="20261125160000 -0500" channel="ESPN+ 8">
+    <title>Baylor Bears at West Virginia Mountaineers</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20261124180000 -0500" stop="20261124200000 -0500" channel="ESPN+ 18">
-    <title>Southern Indiana at VMI</title>
+  <programme start="20261125140000 -0500" stop="20261125160000 -0500" channel="ESPN+ 9">
+    <title>Montreat at Western Carolina</title>
     <category>Sports</category>
   </programme>
-  <programme start="20261124180000 -0500" stop="20261124200000 -0500" channel="ESPN+ 19">
-    <title>Mercer at Florida Atlantic</title>
+  <programme start="20261125140000 -0500" stop="20261125160000 -0500" channel="ESPN+ 10">
+    <title>Warner at North Florida</title>
     <category>Sports</category>
   </programme>
-  <programme start="20261124180000 -0500" stop="20261124200000 -0500" channel="ESPN+ 20">
-    <title>Queens at Wofford</title>
+  <programme start="20261125140000 -0500" stop="20261125160000 -0500" channel="ESPN+ 11">
+    <title>Johnson &amp; Wales (RI) at Brown</title>
     <category>Sports</category>
   </programme>
-  <programme start="20261124183000 -0500" stop="20261124203000 -0500" channel="ESPN+ 21">
-    <title>Elon at Furman</title>
+  <programme start="20261125140000 -0500" stop="20261125160000 -0500" channel="ESPN+ 12">
+    <title>Saint Peter's at Columbia</title>
     <category>Sports</category>
   </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 22">
-    <title>Detroit Pistons at Orlando Magic</title>
+  <programme start="20261125140000 -0500" stop="20261125160000 -0500" channel="ESPN+ 13">
+    <title>Grace Christian at Western Michigan</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125140000 -0500" stop="20261125160000 -0500" channel="ESPN+ 14">
+    <title>Manhattan at NJIT</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125144500 -0500" stop="20261125164500 -0500" channel="ESPN+ 15">
+    <title>West Bromwich Albion at Bolton Wanderers</title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20261125144500 -0500" stop="20261125164500 -0500" channel="ESPN+ 16">
+    <title>Blackburn Rovers at Watford</title>
+    <category>Soccer</category>
+  </programme>
+  <programme start="20261125150000 -0500" stop="20261125170000 -0500" channel="ESPN+ 17">
+    <title>Portland Pilots at Pepperdine Waves</title>
+    <category>Volleyball</category>
+  </programme>
+  <programme start="20261125150000 -0500" stop="20261125170000 -0500" channel="ESPN+ 18">
+    <title>Jackson State at Oklahoma State</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125153000 -0500" stop="20261125173000 -0500" channel="ESPN+ 19">
+    <title>Arkansas State at FIU</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125160000 -0500" stop="20261125180000 -0500" channel="ESPN+ 20">
+    <title>Seattle U Redhawks at Loyola Marymount Lions</title>
+    <category>Volleyball</category>
+  </programme>
+  <programme start="20261125160000 -0500" stop="20261125180000 -0500" channel="ESPN+ 21">
+    <title>Bethesda at Utah Tech</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125160000 -0500" stop="20261125180000 -0500" channel="ESPN+ 22">
+    <title>Grambling State at LSU-New Orleans</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125160000 -0500" stop="20261125180000 -0500" channel="ESPN+ 23">
+    <title>Prairie View A&amp;M at Marshall</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125170000 -0500" stop="20261125190000 -0500" channel="ESPN+ 24">
+    <title>Denver Pioneers at Santa Clara Broncos</title>
+    <category>Volleyball</category>
+  </programme>
+  <programme start="20261125170000 -0500" stop="20261125190000 -0500" channel="ESPN+ 25">
+    <title>Grand Canyon Lopes at Hawai'i Rainbow Warriors</title>
+    <category>Volleyball</category>
+  </programme>
+  <programme start="20261125170000 -0500" stop="20261125190000 -0500" channel="ESPN+ 26">
+    <title>Portland State at UC Riverside</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125170000 -0500" stop="20261125190000 -0500" channel="ESPN+ 27">
+    <title>Holy Cross at Dartmouth</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125180000 -0500" stop="20261125200000 -0500" channel="ESPN+ 28">
+    <title>UC San Diego Tritons at UC Santa Barbara Gauchos</title>
+    <category>Volleyball</category>
+  </programme>
+  <programme start="20261125180000 -0500" stop="20261125200000 -0500" channel="ESPN+ 29">
+    <title>West Florida at Northwestern State</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125180000 -0500" stop="20261125200000 -0500" channel="ESPN+ 30">
+    <title>Bethune-Cookman at Richmond</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125180000 -0500" stop="20261125200000 -0500" channel="ESPN+ 31">
+    <title>CSUN at Weber State</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125183000 -0500" stop="20261125203000 -0500" channel="ESPN+ 32">
+    <title>Vanderbilt Commodores at Oregon State Beavers</title>
     <category>Basketball</category>
   </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 23">
-    <title>Kent State Golden Flashes at Eastern Michigan Eagles</title>
-    <category>Football</category>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 33">
+    <title>Chicago Bulls at Charlotte Hornets</title>
+    <category>Basketball</category>
   </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 24">
-    <title>Bentley Falcons at Harvard Crimson</title>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 34">
+    <title>Winnipeg Jets at Boston Bruins</title>
     <category>Hockey</category>
   </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 25">
-    <title>Northeastern Huskies at Brown Bears</title>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 35">
+    <title>New York Rangers at Buffalo Sabres</title>
     <category>Hockey</category>
   </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 26">
-    <title>Belmont Bruins at Northern Iowa Panthers</title>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 36">
+    <title>Ottawa Senators at Florida Panthers</title>
+    <category>Hockey</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 37">
+    <title>St. Louis Blues at New York Islanders</title>
+    <category>Hockey</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 38">
+    <title>Calgary Flames at Pittsburgh Penguins</title>
+    <category>Hockey</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 39">
+    <title>Philadelphia Flyers at Washington Capitals</title>
+    <category>Hockey</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 40">
+    <title>New Jersey Devils at Columbus Blue Jackets</title>
+    <category>Hockey</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 41">
+    <title>Philadelphia Flyers vs Washington Capitals</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 42">
+    <title>New Jersey Devils vs Columbus Blue Jackets</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 43">
+    <title>Calgary Flames vs Pittsburgh Penguins</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 44">
+    <title>Ottawa Senators vs Florida Panthers</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 45">
+    <title>St. Louis Blues vs New York Islanders</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 46">
+    <title>New York Rangers vs Buffalo Sabres</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 47">
+    <title>Winnipeg Jets vs Boston Bruins</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 48">
+    <title>Bellarmine at Northern Kentucky</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 49">
+    <title>Northern Illinois at SIUE</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 50">
+    <title>Case Western Reserve at Cleveland State</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 51">
+    <title>Longwood at George Mason</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125190000 -0500" stop="20261125210000 -0500" channel="ESPN+ 52">
+    <title>USC Upstate at The Citadel</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125193000 -0500" stop="20261125213000 -0500" channel="ESPN+ 53">
+    <title>Vancouver Canucks at Detroit Red Wings</title>
+    <category>Hockey</category>
+  </programme>
+  <programme start="20261125193000 -0500" stop="20261125213000 -0500" channel="ESPN+ 54">
+    <title>Houston Cougars at Iowa State Cyclones</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 27">
-    <title>UC Davis Aggies at Grand Canyon Lopes</title>
+  <programme start="20261125193000 -0500" stop="20261125213000 -0500" channel="ESPN+ 55">
+    <title>Vancouver Canucks vs Detroit Red Wings</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125200000 -0500" stop="20261125220000 -0500" channel="ESPN+ 56">
+    <title>Nashville Predators at Dallas Stars</title>
+    <category>Hockey</category>
+  </programme>
+  <programme start="20261125200000 -0500" stop="20261125220000 -0500" channel="ESPN+ 57">
+    <title>Utah Mammoth at Minnesota Wild</title>
+    <category>Hockey</category>
+  </programme>
+  <programme start="20261125200000 -0500" stop="20261125220000 -0500" channel="ESPN+ 58">
+    <title>Wisconsin Badgers at Nebraska Cornhuskers</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 28">
-    <title>Morehead State Eagles at Southeast Missouri State Redhawks</title>
+  <programme start="20261125200000 -0500" stop="20261125220000 -0500" channel="ESPN+ 59">
+    <title>Kansas Jayhawks at Arizona Wildcats</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 29">
-    <title>Kent State at Eastern Michigan</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 30">
-    <title>Gardner-Webb at Bowling Green</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 31">
-    <title>Carolina Christian at Presbyterian</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 32">
-    <title>Bryant at Marist</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 33">
-    <title>New Hampshire at Seton Hall</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 34">
-    <title>Delaware State at Chattanooga</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 35">
-    <title>Campbell at Coastal Carolina</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 36">
-    <title>Rider at Loyola Maryland</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 37">
-    <title>Boston University at Harvard</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 38">
-    <title>Tarleton at Weber State</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 39">
-    <title>Charleston Southern at James Madison</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 40">
-    <title>Air Force vs. Army West Point</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 41">
-    <title>Hampton at Old Dominion</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 42">
-    <title>Vermont at Siena</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 43">
-    <title>Stetson at South Florida</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124190000 -0500" stop="20261124210000 -0500" channel="ESPN+ 44">
-    <title>Binghamton at Lehigh</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124193000 -0500" stop="20261124213000 -0500" channel="ESPN+ 45">
-    <title>Purdue Fort Wayne at Southeast Missouri</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124193000 -0500" stop="20261124213000 -0500" channel="ESPN+ 46">
-    <title>Arlington Baptist at East Texas A&amp;M</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124193000 -0500" stop="20261124213000 -0500" channel="ESPN+ 47">
-    <title>West Georgia at Tennessee Tech</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124193000 -0500" stop="20261124213000 -0500" channel="ESPN+ 48">
-    <title>Alcorn State at Louisiana Tech</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124193000 -0500" stop="20261124213000 -0500" channel="ESPN+ 49">
-    <title>Houston Christian at ULM</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124200000 -0500" stop="20261124220000 -0500" channel="ESPN+ 50">
-    <title>Wisconsin Badgers at Penn State Nittany Lions</title>
+  <programme start="20261125200000 -0500" stop="20261125220000 -0500" channel="ESPN+ 60">
+    <title>San Diego Toreros at San Francisco Dons</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20261124200000 -0500" stop="20261124220000 -0500" channel="ESPN+ 51">
-    <title>Alabama A&amp;M at North Alabama</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124200000 -0500" stop="20261124220000 -0500" channel="ESPN+ 52">
-    <title>Florida A&amp;M at South Alabama</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124200000 -0500" stop="20261124220000 -0500" channel="ESPN+ 53">
-    <title>Arkansas Baptist at Little Rock</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124200000 -0500" stop="20261124220000 -0500" channel="ESPN+ 54">
-    <title>Bucknell at Cornell</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124200000 -0500" stop="20261124220000 -0500" channel="ESPN+ 55">
-    <title>Oral Roberts at UTA</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124203000 -0500" stop="20261124223000 -0500" channel="ESPN+ 56">
-    <title>Louisiana Christian at Louisiana</title>
-    <category>Sports</category>
-  </programme>
-  <programme start="20261124210000 -0500" stop="20261124230000 -0500" channel="ESPN+ 57">
-    <title>Weber State Wildcats at Utah Tech Trailblazers</title>
+  <programme start="20261125200000 -0500" stop="20261125220000 -0500" channel="ESPN+ 61">
+    <title>Northern Colorado Bears at Utah Tech Trailblazers</title>
     <category>Volleyball</category>
   </programme>
-  <programme start="20261124210000 -0500" stop="20261124230000 -0500" channel="ESPN+ 58">
-    <title>UNCG at UC Santa Barbara</title>
+  <programme start="20261125200000 -0500" stop="20261125220000 -0500" channel="ESPN+ 62">
+    <title>San Diego State Aztecs at Colorado State Rams</title>
+    <category>Volleyball</category>
+  </programme>
+  <programme start="20261125200000 -0500" stop="20261125220000 -0500" channel="ESPN+ 63">
+    <title>Nashville Predators vs Dallas Stars</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125200000 -0500" stop="20261125220000 -0500" channel="ESPN+ 64">
+    <title>Utah Mammoth vs Minnesota Wild</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125200000 -0500" stop="20261125220000 -0500" channel="ESPN+ 65">
+    <title>CSU Bakersfield at Pepperdine</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125210000 -0500" stop="20261125230000 -0500" channel="ESPN+ 66">
+    <title>Kansas State Wildcats at Arizona State Sun Devils</title>
+    <category>Volleyball</category>
+  </programme>
+  <programme start="20261125210000 -0500" stop="20261125230000 -0500" channel="ESPN+ 67">
+    <title>TCU Horned Frogs at Utah Utes</title>
+    <category>Volleyball</category>
+  </programme>
+  <programme start="20261125210000 -0500" stop="20261125230000 -0500" channel="ESPN+ 68">
+    <title>Sacramento State Hornets at Cal State Bakersfield Roadrunners</title>
+    <category>Volleyball</category>
+  </programme>
+  <programme start="20261125210000 -0500" stop="20261125230000 -0500" channel="ESPN+ 69">
+    <title>Northwest Indian at Montana State</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125210000 -0500" stop="20261125230000 -0500" channel="ESPN+ 70">
+    <title>Eastern Washington at Loyola Marymount</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125213000 -0500" stop="20261125233000 -0500" channel="ESPN+ 71">
+    <title>Montreal Canadiens at Colorado Avalanche</title>
+    <category>Hockey</category>
+  </programme>
+  <programme start="20261125213000 -0500" stop="20261125233000 -0500" channel="ESPN+ 72">
+    <title>Montreal Canadiens vs Colorado Avalanche</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125214000 -0500" stop="20261125234000 -0500" channel="ESPN+ 73">
+    <title>Chicago Blackhawks at Seattle Kraken</title>
+    <category>Hockey</category>
+  </programme>
+  <programme start="20261125214000 -0500" stop="20261125234000 -0500" channel="ESPN+ 74">
+    <title>Chicago Blackhawks vs Seattle Kraken</title>
+    <category>Sports</category>
+  </programme>
+  <programme start="20261125220000 -0500" stop="20261126000000 -0500" channel="ESPN+ 75">
+    <title>Sacramento Kings at Golden State Warriors</title>
+    <category>Basketball</category>
+  </programme>
+  <programme start="20261125220000 -0500" stop="20261126000000 -0500" channel="ESPN+ 76">
+    <title>San Jose Sharks at Anaheim Ducks</title>
+    <category>Hockey</category>
+  </programme>
+  <programme start="20261125220000 -0500" stop="20261126000000 -0500" channel="ESPN+ 77">
+    <title>San Jose Sharks vs Anaheim Ducks</title>
     <category>Sports</category>
   </programme>
 </tv>
